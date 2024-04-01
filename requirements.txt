@@ -1,0 +1,11 @@
+roboflow
+ultralytics==8.0.196
+torch
+torchvision
+opencv-python
+numpy
+matplotlib
+pillow
+pandas
+tqdm
+scikit-learn
